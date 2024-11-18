@@ -1,7 +1,0 @@
-##This is the certification file in the installation package. 
-##If the certification file disappears, 
-##it means that the installation package has expired.
-
-cpccode="c2418141116p72611192cBACK"
-version="1.0"
-Applicable_to="cget-1.0"
